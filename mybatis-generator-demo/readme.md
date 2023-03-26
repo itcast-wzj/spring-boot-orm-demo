@@ -205,6 +205,9 @@ public class MybatisGeneratorApplicationTest {
 }
 ```
 
+##### 优化点
+如何自定义生成的实体,比如类上加上@Data注解, 或者实现Serializable接口, 属性上加上swagger注解等
+
 参考:
 https://www.macrozheng.com/mall/architect/mall_arch_01.html#%E6%B7%BB%E5%8A%A0%E9%A1%B9%E7%9B%AE%E4%BE%9D%E8%B5%96
 
