@@ -11,6 +11,9 @@
     <modules>
         <module>mybatis-generator-demo</module>
         <module>dynamic-mutil-datasource-demo</module>
+        <module>common-code-demo</module>
+        <module>profiles-active-demo</module>
+        <module>transaction-demo</module>
     </modules>
 
     <!--可以让下面的子模块共享-->
